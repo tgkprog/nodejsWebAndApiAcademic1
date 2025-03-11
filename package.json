@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Node.js project with signup, login, and rates views.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
